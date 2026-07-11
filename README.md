@@ -12,9 +12,8 @@ Passionate about building modern web applications, AI-powered solutions, and con
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thathroopa-v)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thathroopa2007@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 
 
 
@@ -97,16 +96,6 @@ To grow as a Full Stack Software Engineer with expertise in Java, Artificial Int
 
 ---
 
-## 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
----
-
 ## 🛠️ Tools & Platforms
 
 <p align="center">
@@ -122,8 +111,6 @@ AI-powered River Contamination Monitoring System using React, Flask and Machine 
 ## 💄 Veloura Beauty Studio
 Modern Beauty Parlour Website.
 
-
-
 ---
 
 # 📚 Currently Exploring
@@ -138,7 +125,7 @@ Modern Beauty Parlour Website.
 
 # 📫 Contact
 
-- 📧 your-email@gmail.com
+- 📧 Email: thathroopa2007@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/thathroopa-v
 - 🌐 Portfolio: https://your-portfolio.vercel.app
 
