@@ -1,17 +1,22 @@
 # Hi 👋, I'm Thathroopa V
 
-## 🚀 Full Stack Developer | AI Enthusiast | Exploring Machine Learning
+## 🚀 Aspiring Java Full Stack Developer | AI Enthusiast | Exploring Machine Learning
 
 Passionate about building modern web applications, AI-powered solutions, and continuously learning emerging technologies.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/thathroopa-v
-- 🐙 GitHub: https://github.com/Thathrooparoopa
-- 🌐 Portfolio: https://your-portfolio.vercel.app
-- 📧 Email: your-email@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thathrooparoopa)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thathroopa-v)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+
+
 
 ---
 
@@ -53,48 +58,60 @@ Passionate about building modern web applications, AI-powered solutions, and con
 
 # 🎯 Career Goal
 
-To become a skilled Software Engineer capable of building scalable, intelligent, and impactful technology solutions.
+
+To grow as a Full Stack Software Engineer with expertise in Java, Artificial Intelligence, and Machine Learning while developing secure, scalable, and user-centric applications.
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-## Programming Languages
+## 💻 Programming Languages
 
-- Java
-- JavaScript
-- Python
-- C
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c" />
+</p>
 
-## Frontend
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-- Bootstrap
-- Framer Motion
+## 🎨 Frontend Development
 
-## Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
 
-- Node.js
-- Express.js
-- Flask
+---
 
-## Database
+## ⚙️ Backend Development
 
-- MongoDB
-- MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
 
-## Tools
+---
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
+## 🗄️ Database Technologies
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
 ---
 
 # 📂 Featured Projects
@@ -116,28 +133,6 @@ Modern Beauty Parlour Website.
 - REST APIs
 - Cloud Deployment
 - Software Architecture
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thathrooparoopa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thathrooparoopa&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Thathrooparoopa&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Thathrooparoopa&theme=tokyonight)
-
----
-
-# 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Thathrooparoopa&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
