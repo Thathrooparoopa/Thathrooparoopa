@@ -6,16 +6,11 @@ Passionate about building modern web applications, AI-powered solutions, and con
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thathrooparoopa)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thathroopa-v)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thathroopa2007@gmail.com)
-
-
-
 
 ---
 
@@ -24,9 +19,9 @@ Passionate about building modern web applications, AI-powered solutions, and con
 - 🎓 BE Computer Science and Engineering Student
 - 🏫 Saranathan College of Engineering
 - 📍 Tamil Nadu, India
-- 💻 Full Stack Developer passionate about modern web technologies
+- 💻 Passionate about Full Stack Development and modern web technologies
 - 🤖 AI Enthusiast exploring Artificial Intelligence and Machine Learning
-- 🚀 Interested in scalable web applications and intelligent systems
+- 🚀 Interested in building scalable web applications and intelligent systems
 - 🎯 Looking for Internship & Freelance Opportunities
 
 ---
@@ -56,7 +51,6 @@ Passionate about building modern web applications, AI-powered solutions, and con
 ---
 
 # 🎯 Career Goal
-
 
 To grow as a Full Stack Software Engineer with expertise in Java, Artificial Intelligence, and Machine Learning while developing secure, scalable, and user-centric applications.
 
@@ -101,12 +95,13 @@ To grow as a Full Stack Software Engineer with expertise in Java, Artificial Int
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 </p>
+
 ---
 
 # 📂 Featured Projects
 
 ## 🌊 HydraSense
-AI-powered River Contamination Monitoring System using React, Flask and Machine Learning.
+AI-powered River Contamination Monitoring System using React, Flask, and Machine Learning.
 
 ## 💄 Veloura Beauty Studio
 Modern Beauty Parlour Website.
@@ -125,15 +120,16 @@ Modern Beauty Parlour Website.
 
 # 📫 Contact
 
-- 📧 Email: thathroopa2007@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/thathroopa-v
-- 🌐 Portfolio: https://your-portfolio.vercel.app
+- 📧 **Email:** thathroopa2007@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/thathroopa-v
+- 📱 **WhatsApp:** +91 7094065567
 
 ---
 
 ## ⭐ Quote
 
-> *"Learning, Building and Growing one project at a time."*
+> *"Learning, Building, and Growing One Project at a Time."*
 
 ---
-⭐ Thanks for visiting my profile!
+
+⭐ **Thanks for visiting my profile!**
