@@ -126,7 +126,7 @@ Modern Beauty Parlour Website.
 
 ---
 
-             *"Learning, Building, and Growing One Project at a Time."*
+Learning, Building, and Growing One Project at a Time.
 
 ---
 
